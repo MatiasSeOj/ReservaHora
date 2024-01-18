@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="DESKTOP-VGUITQK" failures="0" tests="3" name="com.petSmile.AgendaTest" time="0.333" errors="0" timestamp="18 Jan 2024 22:23:30 GMT">
+  <testcase classname="com.petSmile.AgendaTest" name="f" time="0.281"/>
+  <testcase classname="com.petSmile.DuegnoTest" name="f" time="0.038"/>
+  <testcase classname="com.petSmile.MascotaTest" name="f" time="0.007"/>
+</testsuite>
